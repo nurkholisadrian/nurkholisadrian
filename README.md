@@ -22,7 +22,7 @@
 ## ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @BoocinxD**
+* **Visitor Github @nurkholisadrian**
 ![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
 * **Visitor Trending @Xxxxx**
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
